@@ -21,9 +21,9 @@
     <p>
     - 🌱 I’m currently learning <strong>React, NodeJS, Express, Python, MIPS</strong><br>
     - 💬 Ask me about <strong>JavaScript, NodeJS, MERN stack, Java</strong><br>
-    - 📫 How to reach me: <strong><a href="mailto:savinda1@gmail.com">savinda1@gmail.com</a></strong><br>
+    - 📫 How to reach me: <strong><a href="mailto:savinda1@gmail.com">amilasavindakumara@gmail.com</a></strong><br>
     - ⚡ Fun fact: <strong>I love coding late into the night while playing chill lofi beats</strong><br>
-    - 🤝 Feel free to connect with me on LinkedIn: <strong><a href="https://www.linkedin.com/in/savinda1/">Savinda</a></strong><br>
+    - 🤝 Feel free to connect with me on LinkedIn: <strong><a www.linkedin.com/in/amila-savinda-641849267>Savinda</a></strong><br>
     - 🤝 Always open to collaborations! Let’s create impactful software solutions together.
   </p>
 </div>
