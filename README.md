@@ -4,7 +4,7 @@
 <div align="center">
  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
 </div>
-<h1 align="center">Hi 👋, I'm Savinda</h1>
+<h1 align="center">Hi 👋, I'm Amila</h1>
 <h3 align="center">
   Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Software Engineer | Full Stack Developer | MERN Stack Dev
 </h3>
