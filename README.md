@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Amila</h1>
 <h3 align="center">
-  Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Software Engineer | Full Stack Developer | MERN Stack Dev
+  Computer Science Undergraduate | Full Stack Developer | ReactJS NextJS Typescript
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savinda1&label=Profile%20views&color=0e75b6&style=flat" alt="savinda1" /> </p>
 
